@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Lenny-98
-- 👀 I’m interested in Data Science and all related programming languages
-- 🌱 I’m currently learning Python for Data Science 
+- 👀 I’m interested in Data Science, AI and Web Development
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me: kraatz.lennart@gmail.com
 
